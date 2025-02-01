@@ -1,8 +1,12 @@
-Você está pronto para se conectar ao mundo de uma forma inovadora e descentralizada? Apresentamos o Roam, a rede global de WiFi e eSIM que está revolucionando a forma como nos conectamos, utilizando o poder da tecnologia Web3, DePIN e OpenRoaming.
+Você está pronto para se conectar ao mundo de uma forma inovadora e descentralizada? 
+
+Apresentamos o Roam, a rede global de WiFi e eSIM que está revolucionando a forma como nos conectamos, utilizando o poder da tecnologia Web3, DePIN e OpenRoaming.
 
 O que é o Roam?
 
-O Roam é uma rede descentralizada que permite aos usuários acessar conexões WiFi seguras em qualquer lugar do mundo. Com a integração de tecnologias avançadas como identificadores descentralizados (DID) e credenciais verificáveis (VC), o Roam oferece uma experiência de conexão fluida e altamente segura.
+O Roam é uma rede descentralizada que permite aos usuários acessar conexões WiFi seguras em qualquer lugar do mundo. 
+
+Com a integração de tecnologias avançadas como identificadores descentralizados (DID) e credenciais verificáveis (VC), o Roam oferece uma experiência de conexão fluida e altamente segura.
 
 Principais Benefícios:
 
